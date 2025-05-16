@@ -1,2 +1,2 @@
 # Rename_files
-c'est un programme nodejs qui rename les files pdf d'un folder de votre choix et lire les propriétés comme date.. et fair le dons un tableau et une barre de recherche pour rechercher 
+c'est un programme python  qui connet avec database et enregistrer des produits,générédes facture par a port a les besoins d'utilisateurs
