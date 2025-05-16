@@ -1,0 +1,5 @@
+=== FACTURE ===
+Lait (P001) x14 = 105.00 DH
+Savon (P002) x12 = 38.40 DH
+
+TOTAL : 143.40 DH
